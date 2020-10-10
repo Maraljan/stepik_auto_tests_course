@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-none
+
+i love u vova. always will love
